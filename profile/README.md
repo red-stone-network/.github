@@ -9,6 +9,7 @@ It all started with a pure hatred for GoGuardian. Now we make unblocked game web
 ### SECONDARY PROJECTS
 ##### [Clockmarklet](https://github.com/red-stone-network/Clockmarklet) - ACTIVE - A bookmarklet with a bunch of useful tools
 ##### [ImgSocket](https://imgsocket.glitch.me/) - ACTIVE - Open-source socket.io-based image hosting service
+##### [UrlSocket](https://urlsocket.glitch.me/) - ACTIVE - Open-source socket.io-based url shortener
 
 ### OTHER PROJECTS
 
