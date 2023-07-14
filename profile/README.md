@@ -1,4 +1,4 @@
-# [REDSTONE NETWORK](https://redstone-nw.netlify.app/)
+# [REDSTONE NETWORK](https://redstonenetwork.rit.cl/)
 It all started with a pure hatred for GoGuardian. Now we make unblocked game websites, cool bookmarks, and more.
 
 ### MAIN PROJECTS
