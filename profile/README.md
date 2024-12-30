@@ -4,7 +4,7 @@ It all started with a pure hatred for GoGuardian. Now we make unblocked game web
 ### MAIN PROJECTS
 
 ##### [Clockwork](https://github.com/red-stone-network/clockwork) - ACTIVE - A cool bookmarklet that acts like an operating system!
-##### [Muenster](https://muenster.glitch.me/) - ACTIVE - Chat app for school
+##### [Muenster](https://muensterchat.glitch.me/) - ACTIVE - Chat app for school
 
 ### SECONDARY PROJECTS
 ##### [Clockmarklet](https://github.com/red-stone-network/Clockmarklet) - ACTIVE - A bookmarklet with a bunch of useful tools
