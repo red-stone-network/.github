@@ -1,10 +1,14 @@
+Redstone Network's heyday was in 2023. As none of our projects are being supported in any significant amount, I have archived all of them. Thank you for all your support.
+
+<hr>
+
 # [REDSTONE NETWORK](https://redstonenetwork.rit.cl/)
 It all started with a pure hatred for GoGuardian. Now we make unblocked game websites, cool bookmarks, and more.
 
 ### MAIN PROJECTS
 
-##### [Clockwork](https://github.com/red-stone-network/clockwork) - ACTIVE - A cool bookmarklet that acts like an operating system!
-##### [Muenster](https://muensterchat.glitch.me/) - ACTIVE - Chat app for school
+##### [Clockwork](https://github.com/red-stone-network/clockwork) - ARCHIVED - A cool bookmarklet that acts like an operating system!
+##### [Muenster](https://muensterchat.glitch.me/) - ARCHIVED - Chat app for school
 
 ### SECONDARY PROJECTS
 ##### [Clockmarklet](https://github.com/red-stone-network/Clockmarklet) - ACTIVE - A bookmarklet with a bunch of useful tools
